@@ -1,1 +1,6 @@
-# desvendando-atletas
+# Desvendando Atletas
+### 
+## Tecnologias:
+### -HTML;
+### -CSS;
+### -JavaScript
